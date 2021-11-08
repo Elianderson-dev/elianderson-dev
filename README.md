@@ -1,10 +1,10 @@
-## Hello, i'm Elianderson!
+## Hello, i'm Elianderson! 😄
 
-### Welcome to my work ☀️
+### Welcome to my work 🔥 
 
 - 🔭 I’m currently working on: Pessoal projects
-- 🔥 I’m currently learning: Web development and Python
-- 👀 Fun fact: Mark Zuckerberg is a robot
+- 📖 I’m currently learning: Web development and Python
+- :shipit: Fun fact: Mark Zuckerberg is a robot
 
 ---
 
