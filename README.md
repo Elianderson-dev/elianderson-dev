@@ -73,15 +73,6 @@
   </div>
   
 ---
-
-<div class="Commits">
-  
-   ![Snake animation](https://github.com/elianderson-dev/elianderson-dev/blob/output/github-contribution-grid-snake.svg)
- 
-  
-  </div>
-  
-   ---
   
   ### Some of my Repositories 
 
