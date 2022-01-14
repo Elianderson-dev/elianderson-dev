@@ -3,16 +3,13 @@
 ### Welcome to my work 🔥 
 
 - 🔭 I’m currently working on: Pessoal projects
-- 📖 I’m currently learning: Web development and Python
-- :shipit: Fun fact: Mark Zuckerberg is a robot
+- 📖 I’m currently learning: Programming logic and Python language
 
 ---
 
 <div class="status">
 
 <a href="https://github.com/elianderson-dev">
-  
-<img src="https://github.com/identicons/elianderson-dev.png">
 
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=elianderson-dev&show_icon=true&include_all_commits=true&theme=dracula&bg_color=DEG,000,004"/>
 
