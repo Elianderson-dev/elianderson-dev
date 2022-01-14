@@ -11,6 +11,8 @@
 <div class="status">
 
 <a href="https://github.com/elianderson-dev">
+  
+<img src="https://github.com/identicons/elianderson-dev.png">
 
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=elianderson-dev&show_icon=true&include_all_commits=true&theme=dracula&bg_color=DEG,000,004"/>
 
