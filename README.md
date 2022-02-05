@@ -1,6 +1,6 @@
-## Hello, i'm Elianderson! 😄
+## Hello, i am Elianderson!
 
-###Meet my work 🔥 
+### Welcome to my work 🔥 
 
 - 🔭 I’m currently working on: Pessoal projects
 - 📖 I’m currently learning: Programming logic and Python language
@@ -72,14 +72,3 @@
   </div>
   
 ---
-  
-  ### Some of my Repositories 
-
-<div class="Repo">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=elianderson-dev&repo=elianderson-dev"/>
-  
-</div>
-
-
-  
