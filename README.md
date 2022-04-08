@@ -2,10 +2,7 @@
 
 ### Welcome to my work 🔥 
 
-- 🔭 I’m currently working on: Pessoal projects
-- 📖 I’m currently learning: Programming logic and Python language
-
----
+<br>
 
 <div class="status">
 
