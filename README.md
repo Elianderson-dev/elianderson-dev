@@ -8,6 +8,8 @@
 
 <a href="https://github.com/elianderson-dev">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=elianderson-dev&theme=nightowl&border=00EBD2)](https://git.io/streak-stats)
+
 <img height=180em src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elianderson-dev&show_icon=true&include_all_commits=true&theme=dracula&bg_color=DEG,000,004"/>
 
 <img height=180em width=450em src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elianderson-dev&layout=compact&langs_count=16&theme=darcula&bg_color=DEG,004,000"/>
