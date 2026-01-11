@@ -1,5 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello,%20World!%20I'm%20Elianderson&fontSize=56&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Linux%20enthusiast%20•%20DEVELOPER%20•%20Problem%20solver%20&descSize=20&descAlignY=55" width="100%"></img>
 
+<p align=center>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;IT+lover;Web+Developer;Computer+Engineering+;Self+taugh" alt="Typing SVG" />
+ </a>
+</p>
+
 <h1 align=center>Welcome to my Github Profile 🖖</h1>
 
 <br>
