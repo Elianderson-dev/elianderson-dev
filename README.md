@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello,%20World!%20I'm%20Eli&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Linux%20enthusiast%20•%20DEVELOPER%20•%20Problem%20solver%20&descSize=20&descAlignY=55)](https://github.com/Elianderson-dev)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Hello,%20World!%20I'm%20Elianderson&fontSize=56&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Linux%20enthusiast%20•%20DEVELOPER%20•%20Problem%20solver%20&descSize=20&descAlignY=55" width="100%"></img>
 
 <h1 align=center>Welcome to my Github Profile 🖖</h1>
 <br>
@@ -56,5 +56,6 @@
   </div>
 <br/>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=150&section=footerdescSize=20&descAlignY=55)](https://github.com/Elianderson-dev)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=150&section=footer" width="100%"></img>
+
 ---
